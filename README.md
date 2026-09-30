@@ -27,21 +27,19 @@ Repository Contents
 
 create_database.sql - Database creation script
 
-02_insert_sample_data.sql - Sample data
+02_insert_script_data.sql - Sample data
 
-03_example_queries.sql - SQL queries (joins, aggregate, update, delete)
+03_script_queries.sql - SQL queries (joins, aggregate, update, delete)
 
 farmers_market.mwb - MySQL Workbench database model
 
 handrawnchen.jpg - Hand-drawn Chen ER diagram
 
-diagrams/uml-diagram.png - UML/EER diagram created in MySQL Workbench
+farmers_market.mwb - UML/EER diagram created in MySQL Workbench
 
-docs/mini-world-description.md - Project scope and mini-world description
+requirements-gathering.pdf - Requirements gathering process and findings
 
-docs/requirements-gathering.docx - Requirements gathering process and findings
-
-final-report.docx - Final project report
+final-report.pdf - Final project report
 Database Features
 
 Primary keys and foreign keys
